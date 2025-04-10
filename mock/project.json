@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "My Portfolio",
+    "date": "2025-04-01",
+    "techStack": ["React", "TypeScript", "Tailwind CSS"],
+    "description": "개인 포트폴리오 사이트입니다."
+  },
+  {
+    "id": 2,
+    "name": "Umi Admin Dashboard",
+    "date": "2025-04-05",
+    "techStack": ["UmiJS", "Ant Design", "Pro Components"],
+    "description": "관리자 대시보드 프로젝트입니다."
+  },
+  {
+    "id": 3,
+    "name": "Umi Admin Dashboard",
+    "date": "2025-04-05",
+    "techStack": ["UmiJS", "Ant Design", "Pro Components"],
+    "description": "관리자 대시보드 프로젝트입니다."
+  },
+  {
+    "id": 4,
+    "name": "AI Chat UI",
+    "date": "2025-03-30",
+    "techStack": ["Vue", "Vite", "Pinia"],
+    "description": "AI 챗봇 프론트엔드입니다."
+  }
+]
